@@ -1,6 +1,6 @@
 # Hi, I'm Jawad Ahmed 👋
 
-**BS Computer Engineering · FAST-NUCES Islamabad · 4th Semester**
+**BS Computer Engineering · FAST-NUCES Islamabad · 5th Semester**
 
 ---
 
@@ -13,20 +13,23 @@ Computer Engineering undergraduate building projects in C++, digital logic desig
 ### Tech stack
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-2E6F22?style=flat)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![Logisim](https://img.shields.io/badge/Logisim-D22128?style=flat)
+![ModelSim](https://img.shields.io/badge/ModelSim-00599C?style=flat)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 
-**Languages:** C++
-**Tools:** Raylib, Proteus, MATLAB, Arduino IDE, Visual Studio, Git
-**Concepts:** OOP, Data Structures, Digital Logic Design, Circuit Analysis
+**Languages:** C++, Verilog
+**Tools:** Raylib, Proteus, MATLAB, Arduino IDE, Visual Studio, Git, Logisim, ModelSim
+**Concepts:** OOP, Data Structures, Digital Logic Design, Circuit Analysis, Computer Architecture
 
 ---
 
 ### Currently
 
-- 📚 4th semester @ FAST-NUCES, GPA 3.30 / 4.0
+- 📚 5th semester @ FAST-NUCES, CGPA 3.25 / 4.0
 - 🔨 Building C++ projects and hardware systems
 
 ---
