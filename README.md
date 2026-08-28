@@ -46,4 +46,4 @@ Computer Engineering undergraduate building projects in C++, digital logic desig
 ### Contact
 
 📧 jawadahmedz042@icloud.com
-🔗 [LinkedIn](www.linkedin.com/in/jawad-ahmed-a80b33327)
+🔗 [LinkedIn](www.linkedin.com/in/jawad-ahmed-a80b33327/)
