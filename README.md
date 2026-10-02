@@ -19,6 +19,7 @@ Computer Engineering undergraduate building projects in C++, digital logic desig
 ![Logisim](https://img.shields.io/badge/Logisim-D22128?style=flat)
 ![ModelSim](https://img.shields.io/badge/ModelSim-00599C?style=flat)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+![RISC-V](https://img.shields.io/badge/RISC--V-Assembly-283272?style=flat&logo=riscv&logoColor=white)
 
 **Languages:** C++, Verilog
 **Tools:** Raylib, Proteus, MATLAB, Arduino IDE, Visual Studio, Logisim, ModelSim
